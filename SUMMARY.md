@@ -80,6 +80,7 @@
     * [第十九章：端王之子](04_Stories/第一季皇城篇/Episodes/第十九章.md)
     * [第二十章：不問真假](04_Stories/第一季皇城篇/Episodes/第二十章.md)
     * [第二十一章：帝王之身](04_Stories/第一季皇城篇/Episodes/第二十一章.md)
+    * [第二十二章：第七鐘](04_Stories/第一季皇城篇/Episodes/第二十二章.md)
 
 ## 第一季：後宮篇
 
