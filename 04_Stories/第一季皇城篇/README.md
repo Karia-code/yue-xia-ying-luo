@@ -66,6 +66,7 @@
 - [第四章　墨痕](Episodes/第四章.md)
 - [第五章　宮門令](Episodes/第五章.md)
 - [第六章　替身軍](Episodes/第六章.md)
+- [第七章　青龍佩](Episodes/第七章.md)
 
 （持續更新）
 
