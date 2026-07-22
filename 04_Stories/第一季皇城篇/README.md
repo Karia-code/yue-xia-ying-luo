@@ -69,6 +69,7 @@
 - [第七章　青龍佩](Episodes/第七章.md)
 - [第八章　城外鼓](Episodes/第八章.md)
 - [第九章　火藥車](Episodes/第九章.md)
+- [第十章　墨中毒](Episodes/第十章.md)
 
 （持續更新）
 
