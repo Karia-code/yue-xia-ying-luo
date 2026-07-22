@@ -66,6 +66,7 @@
     * [第五章：宮門令](04_Stories/第一季皇城篇/Episodes/第五章.md)
     * [第六章：替身軍](04_Stories/第一季皇城篇/Episodes/第六章.md)
     * [第七章：青龍佩](04_Stories/第一季皇城篇/Episodes/第七章.md)
+    * [第八章：城外鼓](04_Stories/第一季皇城篇/Episodes/第八章.md)
 
 ## 第一季：後宮篇
 
