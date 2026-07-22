@@ -64,6 +64,7 @@
     * [第三章：夜行人](04_Stories/第一季皇城篇/Episodes/第三章.md)
     * [第四章：墨痕](04_Stories/第一季皇城篇/Episodes/第四章.md)
     * [第五章：宮門令](04_Stories/第一季皇城篇/Episodes/第五章.md)
+    * [第六章：替身軍](04_Stories/第一季皇城篇/Episodes/第六章.md)
 
 ## 第一季：後宮篇
 
