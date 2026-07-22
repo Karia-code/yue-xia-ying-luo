@@ -73,6 +73,7 @@
     * [第十二章：黃字院](04_Stories/第一季皇城篇/Episodes/第十二章.md)
     * [第十三章：故人面](04_Stories/第一季皇城篇/Episodes/第十三章.md)
     * [第十四章：雪門之下](04_Stories/第一季皇城篇/Episodes/第十四章.md)
+    * [第十五章：兩個雪晨](04_Stories/第一季皇城篇/Episodes/第十五章.md)
 
 ## 第一季：後宮篇
 
