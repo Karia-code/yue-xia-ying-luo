@@ -89,6 +89,7 @@
     * [第二十八章：四印逆鐘](04_Stories/第一季皇城篇/Episodes/第二十八章.md)
     * [第二十九章：梁進之詔](04_Stories/第一季皇城篇/Episodes/第二十九章.md)
     * [第三十章：雙帝對證](04_Stories/第一季皇城篇/Episodes/第三十章.md)
+    * [第三十一章：井下無屍](04_Stories/第一季皇城篇/Episodes/第三十一章.md)
 
 ## 第一季：後宮篇
 
