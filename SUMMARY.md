@@ -78,6 +78,7 @@
     * [第十七章：殿中人](04_Stories/第一季皇城篇/Episodes/第十七章.md)
     * [第十八章：佛堂鐘](04_Stories/第一季皇城篇/Episodes/第十八章.md)
     * [第十九章：端王之子](04_Stories/第一季皇城篇/Episodes/第十九章.md)
+    * [第二十章：不問真假](04_Stories/第一季皇城篇/Episodes/第二十章.md)
 
 ## 第一季：後宮篇
 
