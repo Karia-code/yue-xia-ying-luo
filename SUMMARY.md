@@ -4,43 +4,89 @@
 
 * [首頁](README.md)
 
+---
+
+# 世界設定
+
+## 專案
+* [專案介紹](00_Project/README.md)
+
 ## 世界觀
-* [世界觀](01_World/README.md)
+* [世界觀總覽](01_World/README.md)
 
 ## 時間線
-* [世界時間線](02_Timeline/MASTER_TIMELINE.md)
+* [世界時間線](05_Timeline/MASTER_TIMELINE.md)
 
-## 角色設定
+---
 
-* [雪陸](03_Characters/雪陸.md)
-* [珞妍](03_Characters/珞妍.md)
-* [詠而歸](03_Characters/詠而歸.md)
-* [雪晨](03_Characters/雪晨.md)
-* [芮夜](03_Characters/芮夜.md)
-* [櫻蝶戀](03_Characters/櫻蝶戀.md)
-* [不知寒](03_Characters/不知寒.md)
-* [諦聽](03_Characters/諦聽.md)
-* [粉蝶花季](03_Characters/粉蝶花季.md)
-* [牛奶西瓜冰](03_Characters/牛奶西瓜冰.md)
-* [苡星](03_Characters/苡星.md)
-* [苡甯](03_Characters/苡甯.md)
+# 人物
 
-## 組織
-* [組織總覽](04_Organizations/README.md)
+## 主要角色
 
-## 劇情
+* [雪陸](02_Characters/雪陸.md)
+* [珞妍](02_Characters/珞妍.md)
+* [詠而歸](02_Characters/詠而歸.md)
+* [雪晨](02_Characters/雪晨.md)
+* [芮夜](02_Characters/芮夜.md)
 
-### 第一季
-* [Season 1](05_Seasons/Season1/README.md)
+## 第二季角色
 
-### 第二季
-* [Season 2：蝶歸長夜](05_Seasons/Season2/README.md)
+* [櫻蝶戀](02_Characters/櫻蝶戀.md)
+* [不知寒](02_Characters/不知寒.md)
+* [諦聽](02_Characters/諦聽.md)
+* [粉蝶花季](02_Characters/粉蝶花季.md)
 
-### 第三季
-* [Season 3](05_Seasons/Season3/README.md)
+## 第三季角色
 
-## 番外
-* [番外篇](06_SideStories/README.md)
+* [苡星](02_Characters/苡星.md)
+* [苡甯](02_Characters/苡甯.md)
 
-## Archive
+## 已故角色
+
+* [牛奶西瓜冰](02_Characters/牛奶西瓜冰.md)
+
+---
+
+# 勢力
+
+* [組織總覽](03_Organizations/README.md)
+
+---
+
+# 正篇故事
+
+## 第一季：皇城篇
+
+* [皇城篇介紹](04_Stories/第一季皇城篇/README.md)
+
+    * [第一章：花燈夜](04_Stories/第一季皇城篇/Episodes/第一章.md)
+
+## 第一季：後宮篇
+
+* [後宮篇介紹](04_Stories/第一季後宮篇/README.md)
+
+## 第二季：蝶歸長夜
+
+* [蝶歸長夜](04_Stories/蝶歸長夜/README.md)
+
+## 第三季
+
+* [第三季](04_Stories/第三季/README.md)
+
+---
+
+# 番外
+
+* [番外總覽](06_SideStories/README.md)
+
+---
+
+# Archive
+
 * [歷史設定](07_Archive/README.md)
+
+---
+
+# 更新紀錄
+
+* [Changelog](CHANGELOG.md)
