@@ -63,6 +63,7 @@
 - [第一章　花燈夜](Episodes/第一章.md)
 - [第二章　杯中局](Episodes/第二章.md)
 - [第三章　夜行人](Episodes/第三章.md)
+- [第四章　墨痕](Episodes/第四章.md)
 
 （持續更新）
 
