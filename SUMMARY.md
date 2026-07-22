@@ -71,6 +71,7 @@
     * [第十章：墨中毒](04_Stories/第一季皇城篇/Episodes/第十章.md)
     * [第十一章：黃字藥](04_Stories/第一季皇城篇/Episodes/第十一章.md)
     * [第十二章：黃字院](04_Stories/第一季皇城篇/Episodes/第十二章.md)
+    * [第十三章：故人面](04_Stories/第一季皇城篇/Episodes/第十三章.md)
 
 ## 第一季：後宮篇
 
