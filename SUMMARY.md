@@ -63,6 +63,7 @@
     * [第二章：杯中局](04_Stories/第一季皇城篇/Episodes/第二章.md)
     * [第三章：夜行人](04_Stories/第一季皇城篇/Episodes/第三章.md)
     * [第四章：墨痕](04_Stories/第一季皇城篇/Episodes/第四章.md)
+    * [第五章：宮門令](04_Stories/第一季皇城篇/Episodes/第五章.md)
 
 ## 第一季：後宮篇
 
