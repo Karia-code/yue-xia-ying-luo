@@ -82,6 +82,7 @@
     * [第二十一章：帝王之身](04_Stories/第一季皇城篇/Episodes/第二十一章.md)
     * [第二十二章：第七鐘](04_Stories/第一季皇城篇/Episodes/第二十二章.md)
     * [第二十三章：真假梁進](04_Stories/第一季皇城篇/Episodes/第二十三章.md)
+    * [第二十四章：第四枚印](04_Stories/第一季皇城篇/Episodes/第二十四章.md)
 
 ## 第一季：後宮篇
 
