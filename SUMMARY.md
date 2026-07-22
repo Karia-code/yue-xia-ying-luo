@@ -86,6 +86,7 @@
     * [第二十五章：三帝局](04_Stories/第一季皇城篇/Episodes/第二十五章.md)
     * [第二十六章：帝型一](04_Stories/第一季皇城篇/Episodes/第二十六章.md)
     * [第二十七章：死人迎王](04_Stories/第一季皇城篇/Episodes/第二十七章.md)
+    * [第二十八章：四印逆鐘](04_Stories/第一季皇城篇/Episodes/第二十八章.md)
 
 ## 第一季：後宮篇
 
