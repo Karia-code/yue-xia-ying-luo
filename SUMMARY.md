@@ -60,6 +60,7 @@
 * [皇城篇介紹](04_Stories/第一季皇城篇/README.md)
 
     * [第一章：花燈夜](04_Stories/第一季皇城篇/Episodes/第一章.md)
+    * [第二章：杯中局](04_Stories/第一季皇城篇/Episodes/第二章.md)
 
 ## 第一季：後宮篇
 
