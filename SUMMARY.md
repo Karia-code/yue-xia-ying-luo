@@ -93,6 +93,7 @@
     * [第三十二章：梁進歸位](04_Stories/第一季皇城篇/Episodes/第三十二章.md)
     * [第三十三章：承天三匣](04_Stories/第一季皇城篇/Episodes/第三十三章.md)
     * [第三十四章：皇陵舊令](04_Stories/第一季皇城篇/Episodes/第三十四章.md)
+    * [第三十五章：天二之罪](04_Stories/第一季皇城篇/Episodes/第三十五章.md)
 
 ## 第一季：後宮篇
 
