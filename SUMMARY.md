@@ -108,6 +108,7 @@
 
     * [第一章　借衣之人](04_Stories/第一季後宮篇/Episodes/第一章.md)
     * [第二章　井底舊名](04_Stories/第一季後宮篇/Episodes/第二章.md)
+    * [第三章　鳳尾之下](04_Stories/第一季後宮篇/Episodes/第三章.md)
 
 ## 第二季：蝶歸長夜
 
