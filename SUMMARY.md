@@ -100,6 +100,7 @@
     * [第三十九章：姓名歸還](04_Stories/第一季皇城篇/Episodes/第三十九章.md)
     * [第四十章：皇城天明](04_Stories/第一季皇城篇/Episodes/第四十章.md)
     * [皇城篇小番外1](04_Stories/第一季皇城篇/Episodes/皇城篇小番外1.md)
+    * [皇城篇小番外2](04_Stories/第一季皇城篇/Episodes/皇城篇小番外2.md)
 
 ## 第一季：後宮篇
 
