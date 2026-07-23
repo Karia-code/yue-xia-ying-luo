@@ -106,6 +106,8 @@
 
 * [後宮篇介紹](04_Stories/第一季後宮篇/README.md)
 
+    * [第一章　借衣之人](04_Stories/第一季後宮篇/Episodes/第一章.md)
+
 ## 第二季：蝶歸長夜
 
 * [蝶歸長夜](04_Stories/蝶歸長夜/README.md)
