@@ -97,6 +97,7 @@
     * [第三十六章：東宮廢詔](04_Stories/第一季皇城篇/Episodes/第三十六章.md)
     * [第三十七章：百名歸冊](04_Stories/第一季皇城篇/Episodes/第三十七章.md)
     * [第三十八章：帝位之選](04_Stories/第一季皇城篇/Episodes/第三十八章.md)
+    * [第三十九章：姓名歸還](04_Stories/第一季皇城篇/Episodes/第三十九章.md)
 
 ## 第一季：後宮篇
 
