@@ -116,6 +116,7 @@
     * [第八章　封宮名冊](04_Stories/第一季後宮篇/Episodes/第八章.md)
     * [第九章　雙生之字](04_Stories/第一季後宮篇/Episodes/第九章.md)
     * [第十章　同名之死](04_Stories/第一季後宮篇/Episodes/第十章.md)
+    * [第十一章　紫宸牆下](04_Stories/第一季後宮篇/Episodes/第十一章.md)
 ## 第二季：蝶歸長夜
 
 * [蝶歸長夜](04_Stories/蝶歸長夜/README.md)
