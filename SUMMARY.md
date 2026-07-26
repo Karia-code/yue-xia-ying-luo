@@ -118,6 +118,7 @@
     * [第十章　同名之死](04_Stories/第一季後宮篇/Episodes/第十章.md)
     * [第十一章　紫宸牆下](04_Stories/第一季後宮篇/Episodes/第十一章.md)
     * [第十二章　回井藥](04_Stories/第一季後宮篇/Episodes/第十二章.md)
+    * [第十三章　原身當還](04_Stories/第一季後宮篇/Episodes/第十三章.md)
 ## 第二季：蝶歸長夜
 
 * [蝶歸長夜](04_Stories/蝶歸長夜/README.md)
