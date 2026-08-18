@@ -120,6 +120,8 @@
     * [第十二章　回井藥](04_Stories/第一季後宮篇/Episodes/第十二章.md)
     * [第十三章　原身當還](04_Stories/第一季後宮篇/Episodes/第十三章.md)
     * [第十四章　第一位](04_Stories/第一季後宮篇/Episodes/第十四章.md)
+    * [第十五章　死籍復生](04_Stories/第一季後宮篇/Episodes/第十五章.md)
+
 ## 第二季：蝶歸長夜
 
 * [蝶歸長夜](04_Stories/蝶歸長夜/README.md)
