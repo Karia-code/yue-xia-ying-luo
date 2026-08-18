@@ -131,6 +131,7 @@
     * [第二十三章　她自己走的](04_Stories/第一季後宮篇/Episodes/第二十三章.md)
     * [第二十四章　准出之人](04_Stories/第一季後宮篇/Episodes/第二十四章.md)
     * [第二十五章　斷冊之人](04_Stories/第一季後宮篇/Episodes/第二十五章.md)
+    * [第二十六章　不借名的路](04_Stories/第一季後宮篇/Episodes/第二十六章.md)
 
 ## 第二季：蝶歸長夜
 
