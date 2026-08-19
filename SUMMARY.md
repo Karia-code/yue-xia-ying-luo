@@ -146,6 +146,7 @@
     * [第三十八章　不要人](04_Stories/第一季後宮篇/Episodes/第三十八章.md)
     * [第三十九章　車往哪裡去](04_Stories/第一季後宮篇/Episodes/第三十九章.md)
     * [第四十章　南門外](04_Stories/第一季後宮篇/Episodes/第四十章.md)
+    *[第四十一章　誰在買人](04_Stories/第一季後宮篇/Episodes/第四十一章.md)
 
 ## 第二季：蝶歸長夜
 
