@@ -142,6 +142,7 @@
     * [第三十四章　還給本人](04_Stories/第一季後宮篇/Episodes/第三十四章.md)
     * [第三十五章　她要回去](04_Stories/第一季後宮篇/Episodes/第三十五章.md)
     * [第三十六章 先帶走](04_Stories/第一季後宮篇/Episodes/第三十六章.md)
+    # [第三十七章　知道價的人](04_Stories/第一季後宮篇/Episodes/第三十七章.md)
 
 ## 第二季：蝶歸長夜
 
