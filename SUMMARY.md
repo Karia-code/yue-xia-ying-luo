@@ -134,6 +134,7 @@
     * [第二十六章　不借名的路](04_Stories/第一季後宮篇/Episodes/第二十六章.md)
     * [第二十七章　第三問](04_Stories/第一季後宮篇/Episodes/第二十七章.md)
     * [第二十八章　買一夜](04_Stories/第一季後宮篇/Episodes/第二十八章.md)
+    * [第二十九章　門從裡面鎖](04_Stories/第一季後宮篇/Episodes/第二十九章.md)
 
 ## 第二季：蝶歸長夜
 
