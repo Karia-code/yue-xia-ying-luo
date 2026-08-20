@@ -159,8 +159,9 @@
     * [第三章 故人歸京](04_Stories/第二季蝶歸長夜/Episodes/第三章.md)
     * [第四章 舊倉無火](04_Stories/第二季蝶歸長夜/Episodes/第四章.md)
     * [第五章 此路可歸](04_Stories/第二季蝶歸長夜/Episodes/第五章.md)
-    * [第六章　長亭客棧](04_Stories/第二季蝶歸長夜/Episodes/第六章.md)
-    * [第七章　宮西舊院](04_Stories/第二季蝶歸長夜/Episodes/第七章.md)
+    * [第六章 長亭客棧](04_Stories/第二季蝶歸長夜/Episodes/第六章.md)
+    * [第七章 宮西舊院](04_Stories/第二季蝶歸長夜/Episodes/第七章.md)
+    * [第八章 看人不看名](04_Stories/第二季蝶歸長夜/Episodes/第八章.md)
 
 ## 第三季
 
