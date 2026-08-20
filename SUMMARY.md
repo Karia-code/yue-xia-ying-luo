@@ -156,6 +156,7 @@
 * [蝶歸長夜](04_Stories/第二季蝶歸長夜/README.md)
     * [第一章 北境有雪](04_Stories/第二季蝶歸長夜/Episodes/第一章.md)
     * [第二章 死人名單](04_Stories/第二季蝶歸長夜/Episodes/第二章.md)
+    * [第三章 故人歸京](04_Stories/第二季蝶歸長夜/Episodes/第三章.md)
 
 ## 第三季
 
