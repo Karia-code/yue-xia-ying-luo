@@ -160,6 +160,7 @@
     * [第四章 舊倉無火](04_Stories/第二季蝶歸長夜/Episodes/第四章.md)
     * [第五章 此路可歸](04_Stories/第二季蝶歸長夜/Episodes/第五章.md)
     * [第六章　長亭客棧](04_Stories/第二季蝶歸長夜/Episodes/第六章.md)
+    * [第七章　宮西舊院](04_Stories/第二季蝶歸長夜/Episodes/第七章.md)
 
 ## 第三季
 
