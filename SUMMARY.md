@@ -158,6 +158,7 @@
     * [第二章 死人名單](04_Stories/第二季蝶歸長夜/Episodes/第二章.md)
     * [第三章 故人歸京](04_Stories/第二季蝶歸長夜/Episodes/第三章.md)
     * [第四章 舊倉無火](04_Stories/第二季蝶歸長夜/Episodes/第四章.md)
+    * [第五章 此路可歸](04_Stories/第二季蝶歸長夜/Episodes/第五章.md)
 
 ## 第三季
 
