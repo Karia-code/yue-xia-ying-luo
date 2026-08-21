@@ -176,6 +176,16 @@
     * [第二十章 舊刃](04_Stories/第二季蝶歸長夜/Episodes/第二十章.md)
     * [第二十一章 人未歸](04_Stories/第二季蝶歸長夜/Episodes/第二十一章.md)
     * [第二十二章 斷路](04_Stories/第二季蝶歸長夜/Episodes/第二十二章.md)
+    * [第二十三章　內路](04_Stories/第二季蝶歸長夜/Episodes/第二十三章.md)
+    * [第二十四章　月下之席](04_Stories/第二季蝶歸長夜/Episodes/第二十四章.md)
+    * [第二十五章　何素](04_Stories/第二季蝶歸長夜/Episodes/第二十五章.md)
+    * [第二十六章　梁成](04_Stories/第二季蝶歸長夜/Episodes/第二十六章.md)
+    * [第二十七章　舊冬衣](04_Stories/第二季蝶歸長夜/Episodes/第二十七章.md)
+    * [第二十八章　提前一日](04_Stories/第二季蝶歸長夜/Episodes/第二十八章.md)
+    * [第二十九章　第十庫](04_Stories/第二季蝶歸長夜/Episodes/第二十九章.md)
+    * [第三十章　十二個順序](04_Stories/第二季蝶歸長夜/Episodes/第三十章.md)
+    * [第三十一章　河四](04_Stories/第二季蝶歸長夜/Episodes/第三十一章.md)
+    * [第三十二章　河四舊井](04_Stories/第二季蝶歸長夜/Episodes/第三十二章.md)
 
 ## 第三季
 
