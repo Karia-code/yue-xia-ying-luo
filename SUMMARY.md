@@ -168,6 +168,7 @@
     * [第十二章 月不是誰的](04_Stories/第二季蝶歸長夜/Episodes/第十二章.md)
     * [第十三章 借來的名字](04_Stories/第二季蝶歸長夜/Episodes/第十三章.md)
     * [第十四章 山路無燈](04_Stories/第二季蝶歸長夜/Episodes/第十四章.md)
+    * [第十五章 兄弟帳](04_Stories/第二季蝶歸長夜/Episodes/第十五章.md)
 
 ## 第三季
 
