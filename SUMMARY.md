@@ -172,6 +172,7 @@
     * [第十六章 廣平行](04_Stories/第二季蝶歸長夜/Episodes/第十六章.md)
     * [第十七章 欠帳的人](04_Stories/第二季蝶歸長夜/Episodes/第十七章.md)
     * [第十八章 北七庫](04_Stories/第二季蝶歸長夜/Episodes/第十八章.md)
+    * [第十九章 新刃]04_Stories/第二季蝶歸長夜/Episodes/第十九章.md)
 
 ## 第三季
 
