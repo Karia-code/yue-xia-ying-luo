@@ -186,6 +186,9 @@
     * [第三十章　十二個順序](04_Stories/第二季蝶歸長夜/Episodes/第三十章.md)
     * [第三十一章　河四](04_Stories/第二季蝶歸長夜/Episodes/第三十一章.md)
     * [第三十二章　河四舊井](04_Stories/第二季蝶歸長夜/Episodes/第三十二章.md)
+    * [第三十三章　月開始有主人](04_Stories/第二季蝶歸長夜/Episodes/第三十三章.md)
+    * [番外一　花季的第一桶金](04_Stories/第二季蝶歸長夜/Episodes/番外一.md)
+    * [番外二　小本生財](04_Stories/第二季蝶歸長夜/Episodes/番外二.md)
 
 ## 第三季
 
