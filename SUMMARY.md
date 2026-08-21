@@ -166,6 +166,7 @@
     * [第十章 第十三口箱子](04_Stories/第二季蝶歸長夜/Episodes/第十章.md)
     * [第十一章 少了一截手指的女人](04_Stories/第二季蝶歸長夜/Episodes/第十一章.md)
     * [第十二章 月不是誰的](04_Stories/第二季蝶歸長夜/Episodes/第十二章.md)
+    * [第十三章 借來的名字](04_Stories/第二季蝶歸長夜/Episodes/第十三章.md)
 
 ## 第三季
 
