@@ -171,6 +171,7 @@
     * [第十五章 兄弟帳](04_Stories/第二季蝶歸長夜/Episodes/第十五章.md)
     * [第十六章 廣平行](04_Stories/第二季蝶歸長夜/Episodes/第十六章.md)
     * [第十七章 欠帳的人](04_Stories/第二季蝶歸長夜/Episodes/第十七章.md)
+    * [第二十八章 提前一日](04_Stories/第二季蝶歸長夜/Episodes/第十八章.md)
 
 ## 第三季
 
