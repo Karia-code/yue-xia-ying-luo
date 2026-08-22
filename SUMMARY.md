@@ -222,9 +222,15 @@
     * [第六十六章　最後一塊](04_Stories/第二季蝶歸長夜/Episodes/第六十六章.md)
     * [第六十七章　離官](04_Stories/第二季蝶歸長夜/Episodes/第六十七章.md)
     * [第六十八章　歸路未終](04_Stories/第二季蝶歸長夜/Episodes/第六十八章.md)
-    * [番外一　花季的第一桶金](04_Stories/第二季蝶歸長夜/Episodes/番外一.md)
-    * [番外二　小本生財](04_Stories/第二季蝶歸長夜/Episodes/番外二.md)
-
+    * [番外一 花季的第一桶金](04_Stories/第二季蝶歸長夜/Episodes/番外一.md)
+    * [番外二 小本生財](04_Stories/第二季蝶歸長夜/Episodes/番外二.md)
+    * [番外三 雪晨與芮夜的武器庫](04_Stories/第二季蝶歸長夜/Episodes/番外三.md)
+    * [番外四 芮夜打大蟑螂](04_Stories/第二季蝶歸長夜/Episodes/番外四.md)
+    * [番外五 諦聽開店](04_Stories/第二季蝶歸長夜/Episodes/番外五.md)
+    * [番外六 寒歸樓創業起源](04_Stories/第二季蝶歸長夜/Episodes/番外六.md)
+    * [番外七 故人的創業資金](04_Stories/第二季蝶歸長夜/Episodes/番外七.md)
+    * [番外八 珞妍回城看診](04_Stories/第二季蝶歸長夜/Episodes/番外八.md)
+    * [番外九 櫻蝶戀］(04_Stories/第二季蝶歸長夜/Episodes/番外九.md)
 ## 第三季
 
 * [第三季](04_Stories/第三季/README.md)
