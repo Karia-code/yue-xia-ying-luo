@@ -230,7 +230,7 @@
     * [番外六 寒歸樓創業起源](04_Stories/第二季蝶歸長夜/Episodes/番外六.md)
     * [番外七 故人的創業資金](04_Stories/第二季蝶歸長夜/Episodes/番外七.md)
     * [番外八 珞妍回城看診](04_Stories/第二季蝶歸長夜/Episodes/番外八.md)
-    * [番外九 櫻蝶戀］(04_Stories/第二季蝶歸長夜/Episodes/番外九.md)
+    * [番外九 櫻蝶戀](04_Stories/第二季蝶歸長夜/Episodes/番外九.md)
 ## 第三季
 
 * [第三季](04_Stories/第三季/README.md)
