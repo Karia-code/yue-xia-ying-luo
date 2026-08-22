@@ -153,9 +153,10 @@
     舊版角色設定
     廢案
     歷史版本
-> Repository 結構會隨作品內容持續調整。
->
-> 若資料夾結構與舊版 README 不同，以目前 Repository 中實際存在的目錄為準。
+
+Repository 結構會隨作品內容持續調整。
+
+若資料夾結構與舊版 README 不同，以目前 Repository 中實際存在的目錄為準。
 
 ---
 
